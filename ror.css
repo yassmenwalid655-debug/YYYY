@@ -1,0 +1,50 @@
+h1{   
+    color: rgb(0, 0, 0);
+}
+h1:hover{
+    color: blue;
+}
+
+h2{   
+    color: rgb(0, 0, 0);
+}
+h2:hover{
+    color: rgb(0, 234, 255);
+}
+
+h3{   
+    color: rgb(0, 0, 0);
+}
+h3:hover{
+    color: rgb(255, 0, 76);
+}
+
+h4{   
+    color: rgb(0, 0, 0);
+}
+h4:hover{
+    color: rgb(208, 0, 255);
+}
+
+h5{   
+    color: rgb(0, 0, 0);
+}
+h5:hover{
+    color: rgb(124, 192, 130);
+}
+
+h6{   
+    color: rgb(0, 0, 0);
+}
+h6:hover{
+    color: rgb(234, 0, 255);
+}
+
+
+@media (max-width:780PX){
+    h1{
+        color: blue;
+    }
+
+    
+}
